@@ -7,7 +7,7 @@ With a background in **Industrial Robotics Engineering** and experience in **aut
 
 ---
 
-## 🔧 Skills & Tools  
+## Skills & Tools  
 - **Programming & Data**: Python, SQL, R  
 - **Machine Learning & AI**: scikit-learn, TensorFlow, Computer Vision  
 - **Data Visualization**: Power BI, Matplotlib, Seaborn  
@@ -16,7 +16,7 @@ With a background in **Industrial Robotics Engineering** and experience in **aut
 
 ---
 
-## ⚙️ My favorite tools and technologies 
+## My favorite tools and technologies 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -77,10 +77,10 @@ With a background in **Industrial Robotics Engineering** and experience in **aut
 
 ---
 
-## 📂 Featured Projects  
-- 📊 **Customer Churn Prediction** – Built and optimized ML models (AUC-ROC + F1) to anticipate cancellations.  
-- 🤖 **Computer Vision Fraud Detection** – Automated detection system using OCR + CV techniques for delivery tickets.  
-- 🔋 **Robotics & Automation** – Managed 38 autonomous mobile robots, leveraging data to boost efficiency in solar manufacturing.  
+## Featured Projects  
+- **Customer Churn Prediction** – Built and optimized ML models (AUC-ROC + F1) to anticipate cancellations.  
+- **Computer Vision Fraud Detection** – Automated detection system using OCR + CV techniques for delivery tickets.  
+- **Robotics & Automation** – Managed 38 autonomous mobile robots, leveraging data to boost efficiency in solar manufacturing.  
 
 ---
 
@@ -91,7 +91,7 @@ With a background in **Industrial Robotics Engineering** and experience in **aut
 
 ---
 
-## 📫 Let’s Connect!  
+## Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gerzon-medina-robotics-datascience)  
 - ✉️ Email: **gerzon13medin@gmail.com**  
 - 📍 Based in: Georgia, USA / Open to relocation  
